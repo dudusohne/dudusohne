@@ -20,4 +20,4 @@
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://img.shields.io/badge/)
 [![Windows](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://img.shields.io/badge/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudusohne&hide=prs,contribs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudusohne&hide=prs,contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
