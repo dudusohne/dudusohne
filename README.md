@@ -1,5 +1,4 @@
-## Perfil Github de 
-# Eduardo Sohne
+# Eduardo Sohne,
 ### Software Engineer
 
 ### Contato
