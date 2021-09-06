@@ -22,6 +22,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Made with](http://ForTheBadge.com/images/badges/built-with-science.svg)](https://img.shields.io/badge/)
 
 
