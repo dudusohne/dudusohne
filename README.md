@@ -1,4 +1,4 @@
-## everything is possible with javascript
+## Hi!
 
 ### Contact
 [![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dudu.hit@gmail.com)
