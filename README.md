@@ -24,7 +24,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=drowngut&label=Visitas%20no%20perfil&color=7f04d1&style=flat" alt="drowngut" /><p align="center"> <img src="https://komarev.com/ghpvc/?username=drowngut&label=Visitas%20no%20perfil&color=7f04d1&style=flat" alt="drowngut" />
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=drowngut&label=Visitas%20no%20perfil&color=7f04d1&style=flat" alt="drowngut" />
 
 
