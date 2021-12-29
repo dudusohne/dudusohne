@@ -1,6 +1,6 @@
 ## Eduardo Sohne
 
-### personal portfolio: https://nextresume.vercel.app
+<!-- ### personal portfolio: https://nextresume.vercel.app -->
 
 ### Contact
 [![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dudu.hit@gmail.com)
