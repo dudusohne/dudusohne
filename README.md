@@ -19,7 +19,7 @@
 
 ## now I'm working in front with vue 3.
 #### studying unit tests
-#### mastering js
+#### mastering typescript
 
 ------------
 
