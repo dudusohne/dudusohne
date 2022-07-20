@@ -22,8 +22,11 @@
 #### - mastering typescript
 
 ------------
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=dudusohne&show_icons=true&theme=dracula">
-(https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<div>
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=dudusohne&show_icons=true&theme=gruvbox">
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudusohne&layout=compact&lang&theme=gruvbox">
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=drowngut&label=Visitas%20no%20perfil&color=7f04d1&style=flat" alt="drowngut" />
   
