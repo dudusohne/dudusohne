@@ -28,9 +28,6 @@
 <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudusohne&layout=compact&lang&theme=gruvbox">
 </div>
 
-<img src="https://github.com/dudusohne/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/dudusohne/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=drowngut&label=Visitas%20no%20perfil&color=7f04d1&style=flat" alt="drowngut" />
   
 
