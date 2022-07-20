@@ -22,6 +22,7 @@
 #### - mastering typescript
 
 ------------
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=dudusohne&show_icons=true&theme=gruvbox">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudusohne&hide=pr,contribs&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
