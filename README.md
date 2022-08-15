@@ -24,7 +24,7 @@
 ------------
 
 ### Check it out my [portfolio](https://nextresume.vercel.app/)
-### If you like Pokemon and Vue, check this one too: [PokeDesk]([https://nextresume.vercel.app/](https://pokemon-desk-team.vercel.app/))
+### If you like Pokemon and Vue, check this one too: [PokeDesk](https://pokemon-desk-team.vercel.app/)
 
 ------------
 
