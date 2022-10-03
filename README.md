@@ -17,9 +17,6 @@
 [![Skills](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://img.shields.io/badge/)
 [![Skills](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://img.shields.io/badge/)
 
-### now I'm working in front with vue 3.
-#### - studying unit tests and typescript
-
 ------------
 
 ### Check it out my [portfolio](https://nextresume.vercel.app/)
