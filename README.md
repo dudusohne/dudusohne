@@ -18,9 +18,7 @@
 [![Skills](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://img.shields.io/badge/)
 
 ------------
-
-<!-- ### Check it out my [portfolio](https://nextresume.vercel.app/) -->
+### Personal projects with deploy's 🚀
+### Vue 3 + composition api + js dom interactions [fast-typing]((https://fast-typing-six.vercel.app/))
+### Check it out my [portfolio](https://nextresume.vercel.app/)
 ### If you like Pokemon and Vue, check this one too: [PokeDesk](https://pokemon-desk-team.vercel.app/)
-  
-
-
