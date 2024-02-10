@@ -19,6 +19,6 @@
 
 ------------
 ### Personal projects with deploy's 🚀
-### Vue 3 + composition api + js dom interactions [fast-typing](https://fast-typing-six.vercel.app/)
-### Check it out my [portfolio](https://nextresume.vercel.app/)
-### If you like Pokemon and Vue, check this one too: [PokeDesk](https://pokemon-desk-team.vercel.app/)
+### - Vue 3 + composition api + js dom interactions [fast-typing](https://fast-typing-six.vercel.app/)
+### - Check it out my [portfolio](https://nextresume.vercel.app/)
+### - If you like Pokemon and Vue, check this one too: [PokeDesk](https://pokemon-desk-team.vercel.app/)
